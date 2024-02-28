@@ -4,8 +4,7 @@ public class Main {
     public static void main(String[] args) {
         int array[] = readIntegers();
         System.out.println(findMin(array));
-
-
+        //test
     }
 
     public static int[] readIntegers(){
