@@ -2,9 +2,9 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
-        int[] array = readIntegers();
+        int[] array = readIntegers(); //change
         System.out.println(findMin(array));
-        //test
+
     }
 
     public static int[] readIntegers(){
